@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/reservaitatia360/public_html/
-    - /bin/cp principal.java $DEPLOYPATH
+    - /bin/cp Principal.java $DEPLOYPATH
